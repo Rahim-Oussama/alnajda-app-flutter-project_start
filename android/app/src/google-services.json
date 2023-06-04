@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394087736694",
+    "project_id": "al-najda",
+    "storage_bucket": "al-najda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394087736694:android:f072508d6408d1b363c657",
+        "android_client_info": {
+          "package_name": "com.example.alnajda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394087736694-897d75r48ia18nlofuoq30ro8epcmrek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4KI_CuFr7DrJGZhDHJoL4rfKS6HffpqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394087736694-897d75r48ia18nlofuoq30ro8epcmrek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
